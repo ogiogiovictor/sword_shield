@@ -1,0 +1,13 @@
+{
+    "name": "ibelemo/contact",
+    "description": "Send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibelemo\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
